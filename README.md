@@ -1,4 +1,6 @@
-I am a research assistant at the TU Ilmenau. Currently, I use machine learning for the visualization and interpretation of M/EEG data.
+Currently, I am a research assistant at Uni Luebeck. 
+Before that, I was a research assistant at the TU Ilmenau studying brain waves (M/EEG data) using machine learning.
+
 
 <!---
 msseibel/msseibel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
